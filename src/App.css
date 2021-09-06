@@ -1,0 +1,12 @@
+.App {
+  font-family: -apple-system, Roboto, Oxygen, Ubuntu, BlinkMacSystemFont, 'Segoe UI', Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.logo{
+  font-size: 1.5rem;
+  font-weight: 600;;
+}
+
+.product-list {
+  grid-gap: 1rem;
+}
